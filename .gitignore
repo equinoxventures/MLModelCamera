@@ -6,12 +6,12 @@
 build/
 DerivedData/
 
-models/*
-!.gitkeep
-!MobileNetV2Int8LUT.mlmodel
-!YOLOv3TinyInt8LUT.mlmodel
-!SqueezeNet.mlmodel
-!GoogLeNetPlaces.mlmodel
+# models/*
+# !.gitkeep
+# !MobileNetV2Int8LUT.mlmodel
+# !YOLOv3TinyInt8LUT.mlmodel
+# !SqueezeNet.mlmodel
+# !GoogLeNetPlaces.mlmodel
 
 
 ## Various settings
